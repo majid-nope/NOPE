@@ -1,10 +1,4 @@
-/**
-* Template Name: MyResume - v4.3.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
+@import url('http://fonts.cdnfonts.com/css/cyberdyne');
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -752,7 +746,7 @@ h6 {
 
 #hero h1 {
   margin: 0;
-  font-family: Cyberdyne;
+  font-family: 'Cyberdyne', sans-serif;
   font-size: 64px;
   line-height: 56px;
   color: #7ee3fe;
@@ -762,12 +756,12 @@ h6 {
   color: #7ee3fe;
   margin: 15px 0 0 0;
   font-size: 26px;
-  font-family: Cyberdyne;
+  font-family: 'Cyberdyne', sans-serif;
 }
 
 #hero p span {
   color: #1aeef5;
-  font-family: Cyberdyne;
+  font-family: 'Cyberdyne', sans-serif;
   letter-spacing: 1px;
   animation: spans 7.1s linear infinite;
 }
