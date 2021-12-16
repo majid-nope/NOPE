@@ -730,12 +730,7 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-@font-face {
-  font-family: 'Cyberdyne';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Cyberdyne'), url('https://fonts.cdnfonts.com/s/38411/Cyberdyne-5Z48.woff') format('woff');
-}	
+
 	
 	
 #particles-js {
