@@ -814,11 +814,9 @@
     var bg = document.getElementById('opn');
     var hover = document.getElementById('cardS')
     var x = confirm("Click ok for music")
-    if (x == true) {
+    if (x === true) {
       bg.play()
 
-    } else {
-      console.log("failed")
     }
     function mouseOver() {
       hover.play()
@@ -842,7 +840,7 @@
       var gearSound = document.getElementById("gear")
       var gearSoundC = document.getElementById("gearClose")
       var container = document.createElement("BUTTON")
-      container.setAttribute("onclick", "javascript:location.href='/showcase.html'")
+      container.setAttribute("onclick", "javascript:location.href='https://majid-nope.github.io/NOPE./showcase.html'")
       var text = document.createTextNode("Click To Show")
       var mainContainer = document.getElementById("show")
 
