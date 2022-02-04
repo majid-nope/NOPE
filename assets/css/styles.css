@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Cyberdyne;
+  src: url('font/cyberdyne.ttf');
+}
 body {
     margin: 0;
 }
