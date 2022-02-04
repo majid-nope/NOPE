@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'photoshop';
+  src:  url('fonts/photoshop.eot?mod29o');
+  src:  url('fonts/photoshop.eot?mod29o#iefix') format('embedded-opentype'),
+    url('fonts/photoshop.ttf?mod29o') format('truetype'),
+    url('fonts/photoshop.woff?mod29o') format('woff'),
+    url('fonts/photoshop.svg?mod29o#photoshop') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'photoshop' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.psicon-adobephotoshop:before {
+  content: "\e900";
+  color: #00c8ff;
+}
