@@ -1054,44 +1054,44 @@ section {
 .spin-icon .bx-globe {
   position: absolute;
   color: #569cf7;
-  text-shadow: 0 0 5px #559bf7;
+  
   font-size: 5.5em;
 }
 .spin-icon .devicon-redhat-plain
 {
   position: absolute;
   color: #ff2600;
-  text-shadow: 0 0 4.1px #ff2600;
+
   font-size: 5.5em;
 }
 .spin-icon  .bxs-pen {
   position: absolute;
   color: #73b504;
-  text-shadow: 0 0 6px #73b504;
+
   font-size: 5.5em;
 }
 .spin-icon .photoshop-line {
   position: absolute;
   color: #3b88ec;
-  text-shadow: 0 0 6px #3b88ec;
+ 
   font-size: 5.1em;
 }
 .spin-icon .bxs-video-recording {
   position: absolute;
   color: #fd356a;
-  text-shadow: 0 0 4px #fd356a;
+
   font-size: 5.5em;
 }
 .spin-icon .devicon-android-plain {
   position: absolute;
   color: #04eb7b;
-  text-shadow: 0 0 1px #04eb7b;
+
   font-size: 5.5em;
 }
 .spin-icon .bxs-donate-heart {
   position: absolute;
   color: rgb(12, 226, 226);
-  text-shadow: 0 0 2px rgb(12, 226, 226);
+
   font-size: 5.5em;
 }
 
